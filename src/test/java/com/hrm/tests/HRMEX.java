@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class HRMEX {
-	// Hello Raj
+	// Hello Raj Ravi
 		@Test
 		public void loginhrm()
 		{
