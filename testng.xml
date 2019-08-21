@@ -4,6 +4,7 @@
   <test name="Test">
    <classes>
     <class name="com.hrm.tests.HRMEX"/>
+    
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
